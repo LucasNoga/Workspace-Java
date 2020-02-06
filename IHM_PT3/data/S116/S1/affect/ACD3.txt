@@ -1,0 +1,3 @@
+AffectCM srgvtb
+AffectTD 2 srgvtb
+AffectTP 4 
